@@ -1,2 +1,2 @@
 # Mini-Projects
-Mini Assignments given by Professor Kaeli
+These are some of the assignments that Proffesor Kaeli has given me to complete.
